@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: hsla(192, 15%, 94%, 0.781); 
+}
+
+#page-title {
+    
+    color: hsl(0, 60%, 30%);
+    font-size: 75px;
+    text-align: center;
+}
+
+#banner{
+    width:fit-content;
+}
+
+#main-list{
+    color: hsl(0, 0%, 0%);
+    font-size: 24px;
+    background-color: hsla(0, 59%, 30%, 0.226)
+}
+
+a {
+    color: hsl(0, 0%, 1%);
+    text-decoration: none;
+}
+
